@@ -3,3 +3,4 @@ new index
 
 - feature-A
 - fix-B
+- feature-C
